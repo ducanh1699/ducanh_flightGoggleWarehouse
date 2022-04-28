@@ -1,0 +1,40 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${workspaceFolder}/.vscode/browse.vc.db",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/ducanh/ducanh_catkin_ws/ducanhfg/devel/include/**",
+        "/home/ducanh/assignment_TU_GRAZ/devel/include/**",
+        "/home/ducanh/ducanh_catkin_ws/offboard_control/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/ducanh/assignment_TU_GRAZ/src/astra_camera/include/**",
+        "/home/ducanh/ducanh_catkin_ws/offboard_control/src/mavros_controllers/controller_msgs/include/**",
+        "/home/ducanh/assignment_TU_GRAZ/src/dla2_path_planner/include/**",
+        "/home/ducanh/assignment_TU_GRAZ/src/eigen_checks/include/**",
+        "/home/ducanh/assignment_TU_GRAZ/src/exercise_4_path_planner/include/**",
+        "/home/ducanh/ducanh_catkin_ws/offboard_control/src/mavros_controllers/geometric_controller/include/**",
+        "/home/ducanh/assignment_TU_GRAZ/src/mav_comm/mav_msgs/include/**",
+        "/home/ducanh/assignment_TU_GRAZ/src/mav_comm/mav_planning_msgs/include/**",
+        "/home/ducanh/assignment_TU_GRAZ/src/mav_trajectory_generation/mav_trajectory_generation/include/**",
+        "/home/ducanh/assignment_TU_GRAZ/src/mav_trajectory_generation/mav_trajectory_generation_example/include/**",
+        "/home/ducanh/assignment_TU_GRAZ/src/mav_trajectory_generation/mav_trajectory_generation_ros/include/**",
+        "/home/ducanh/assignment_TU_GRAZ/src/mav_trajectory_generation/mav_visualization/include/**",
+        "/home/ducanh/assignment_TU_GRAZ/src/nlopt/include/**",
+        "/home/ducanh/assignment_TU_GRAZ/src/octomap_mapping/octomap_server/include/**",
+        "/home/ducanh/assignment_TU_GRAZ/src/rqt_mypkg/include/**",
+        "/home/ducanh/ducanh_catkin_ws/offboard_control/src/mavros_controllers/trajectory_publisher/include/**",
+        "/home/ducanh/ducanh_catkin_ws/offboard_control/src/trajectory_test/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
